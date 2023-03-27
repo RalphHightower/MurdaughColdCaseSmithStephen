@@ -10,7 +10,7 @@ author:
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
   Stephen Smith was an openly gay nineteen year old male from Hampton, South Carolina who was found dead on a rural road late July 8, 2015. His death was initially classified as a hit-and-run. SLED decided to reopen the case as a murder investigation based on New information from the investigation of Maggie and Paul Murdaugh. 
-  show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
